@@ -1,5 +1,5 @@
 header:
-    title: Welcome to our Studio!
+    title: Hi, I am Martina!
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services"
@@ -27,7 +27,7 @@ portfolio:
     
 
 timeline:
-    title: "About" 
+    title: "About Me" 
     text: "Lorem ipsum timeline"
     section: timeline
     # left is the default
@@ -118,8 +118,8 @@ team:
             icon: fab fa-linkedin-in
           
 contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Get in touch"
+    text: "Leave me a message or call 123456789"
     section: contact
     
 footer:
